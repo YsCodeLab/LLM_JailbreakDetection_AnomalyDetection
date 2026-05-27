@@ -16,7 +16,7 @@ python main.py
 ## Files
 
 ### `main.py`
-**Purpose**: Orchestrates the entire pipeline
+**Purpose**:
 - Loads configuration
 - Calls other modules in sequence
 - Prints summary statistics
